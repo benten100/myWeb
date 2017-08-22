@@ -1,2 +1,5 @@
 # myWeb
-A Simple Webpage Developed By Me Using Simple HTML, CSS, JS
+#A Simple Webpage Developed By Me Using Simple HTML, CSS, JS
+
+TO PREVIEW THIS WEBPAGE DOWNLOAD images FOLDER ALONG WITH index.html WITHIN SAME FOLDER.
+OPEN index.html, PAGE WILL DEPICT ON YOUR WEB BROWSER.
